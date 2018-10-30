@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Natural Springs of Saratoga</name>
+    <description><![CDATA[NEARC 2011<br>Spring locations and limited field data collection generated using an iPhone with GIS Kit Application]]></description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Polaris</name>
+        <description><![CDATA[Polaris<br> <br><br> Name_1 Polaris<br> Discharge 1.5<br> Head 0<br> Type Spouter<br> Taste Salty, sweet, soda<br> Notes Roadside access]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.803492,43.050402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Island Spouter</name>
+        <description><![CDATA[Island Spouter<br> <br><br> Name_1 Island Spouter<br> Discharge 10<br> Head 12<br> Type Spouter<br> Taste <br> Notes Est discharge, no access (island in stream)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.805498,43.051642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hayes Well Spring</name>
+        <description><![CDATA[Hayes Well Spring<br> <br><br> Name_1 Hayes Well Spring<br> Discharge 3<br> Head 0<br> Type Bottling source<br> Taste Crisp, sweet<br> Notes easy access, popular DW source]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.804607,43.050798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hathorn No 3</name>
+        <description><![CDATA[Hathorn No 3<br> <br><br> Name_1 Hathorn No 3<br> Discharge 1<br> Head 0<br> Type Historic<br> Taste Sweet salty carbonated soda<br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.81215,43.048842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>State Seal</name>
+        <description><![CDATA[State Seal<br> <br><br> Name_1 State Seal<br> Discharge 3<br> Head 0<br> Type Bottling Source<br> Taste Crisp, sweet<br> Notes Popular]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.803728,43.057977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Congress Spring</name>
+        <description><![CDATA[Congress Spring<br> <br><br> Name_1 Congress Spring<br> Discharge 1<br> Head 0<br> Type Historic<br> Taste Crisp, sweet<br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.785371,43.078143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Columbian Spring</name>
+        <description><![CDATA[Columbian Spring<br> <br><br> Name_1 Columbian Spring<br> Discharge 1<br> Head 0<br> Type Historic<br> Taste Crisp<br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.785907,43.078078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deer Park Spring</name>
+        <description><![CDATA[Deer Park Spring<br> <br><br> Name_1 Deer Park Spring<br> Discharge 1<br> Head 0<br> Type Historic<br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.785167,43.077286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hathorn Spring</name>
+        <description><![CDATA[Hathorn Spring<br> <br><br> Name_1 Hathorn Spring<br> Discharge 1<br> Head 0<br> Type Historic<br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.784126,43.079735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln Spring</name>
+        <description><![CDATA[Lincoln Spring<br> <br><br> Name_1 Lincoln Spring<br> Discharge 0<br> Head 0<br> Type <br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.789372,43.064705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orenda Spring</name>
+        <description><![CDATA[Orenda Spring<br> <br><br> Name_1 Orenda Spring<br> Discharge 0<br> Head 0<br> Type <br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.80671,43.053814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peerless Spring</name>
+        <description><![CDATA[Peerless Spring<br> <br><br> Name_1 Peerless Spring<br> Discharge 0<br> Head 0<br> Type <br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.780446,43.086486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Governor Spring</name>
+        <description><![CDATA[Governor Spring<br> <br><br> Name_1 Governor Spring<br> Discharge 0<br> Head 0<br> Type <br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.780392,43.086473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>High Rock Spring</name>
+        <description><![CDATA[High Rock Spring<br> <br><br> Name_1 High Rock Spring<br> Discharge 0<br> Head 0<br> Type <br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.780103,43.086937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Red Spring</name>
+        <description><![CDATA[Old Red Spring<br> <br><br> Name_1 Old Red Spring<br> Discharge 1<br> Head 0<br> Type Historic<br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.776155,43.088931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Red Spring</name>
+        <description><![CDATA[Big Red Spring<br> <br><br> Name_1 Big Red Spring<br> Discharge 0<br> Head 0<br> Type <br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.770039,43.074568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Empire Spring</name>
+        <description><![CDATA[Empire Spring<br> <br><br> Name_1 Empire Spring<br> Discharge 0<br> Head 0<br> Type <br> Taste <br> Notes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.767132,43.090697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
